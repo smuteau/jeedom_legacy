@@ -1,0 +1,7 @@
+==== Configuration du plugin
+
+Le plugin ne comporte pas de configuration générale.
+
+Il faut choisir son port sur la page de l'équipement.
+
+Le numéro de port se récupère en allant sur http://maree.info/, on clique le port voulu et on obtient une url contenant une valeur numérique, c'est elle qui fait saisir

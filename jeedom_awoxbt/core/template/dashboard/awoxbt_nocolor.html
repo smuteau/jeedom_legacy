@@ -1,0 +1,40 @@
+<div class="eqLogic-widget eqLogic" style="width: auto;height: auto;;border:#border#;border-radius:#border-radius#;background-color: #background-color#;color: #color#;#style#" data-eqLogic_id="#id#" data-eqLogic_uid="#uid#" data-version="dashboard" >
+      <center><a href="#eqLink#" style="font-size : 1.5em;#hideEqLogicName#">#name_display#</a></center><br />
+
+<div class="row" style="display: inline; align: center;"  data-cmd_id="fixe#cmdid#"><center>
+<a class="btn btn-black btn-sm action_off">   </a>
+<a class="btn btn-default btn-sm action_on">   </a>
+</center></div>
+
+<div class="row">
+<center>
+<span class="cmd cmd-widget" data-type="action" data-subtype="slider" data-cmd_id="slider#cmdid#" >
+    <div id="sli#cmdid#" class="slider" style="margin : 5px 10px 8px 10px;width: 65px;" value="50"></div>
+
+    <script>
+   $(".cmd[data-cmd_id=slider#cmdid#] .slider").bootstrapSlider({
+       min: ('0' == '') ? 0 : parseInt('0'),
+       max: ('14' == '') ? 14 : parseInt('14'),
+       value: ('5' == '') ? 0 : parseInt('7')
+   });
+        $(".cmd[data-cmd_id=slider#cmdid#] .slider.slider-horizontal").css('z-index',1);
+        $(".cmd[data-cmd_id=slider#cmdid#] .slider").on('slideStop', function (ev) {
+          slider = $('#sli#cmdid#').value();
+          jeedom.cmd.execute({id: '#cmdid#', value: {title: '#cmd#', message: '01'+slider}});
+        });
+        $('.row[data-cmd_id=fixe#cmdid#] .action_off').on('click', function() {
+          $(".cmd[data-cmd_id=slider#cmdid#] .slider").bootstrapSlider('setValue', 0);
+     slider = $('#sli#cmdid#').value();
+          jeedom.cmd.execute({id: '#cmdid#', value: {title: '#cmd#', message: '01'+slider}});
+        });
+        $('.row[data-cmd_id=fixe#cmdid#] .action_on').on('click', function() {
+          $(".cmd[data-cmd_id=slider#cmdid#] .slider").bootstrapSlider('setValue', 100);
+     slider = $('#sli#cmdid#').value();
+          jeedom.cmd.execute({id: '#cmdid#', value: {title: '#cmd#', message: '01'+slider}});
+        });
+
+    </script>
+</span>
+</center>
+</div>
+</div>

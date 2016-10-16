@@ -1,0 +1,3 @@
+==== Alertes LBC
+
+Ce plugin permet à Jeedom de vérifier les nouvelles annonces LBC disponibles

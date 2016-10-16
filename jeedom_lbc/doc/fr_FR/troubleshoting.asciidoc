@@ -1,0 +1,5 @@
+[panel,danger]
+.Je n'ai pas d'informations qui remontent
+--
+Il faut bien créer un équipement et ajouter une information avec l'URL de recherche pour que Jeedom vérifie les nouveautés
+--

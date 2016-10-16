@@ -1,0 +1,5 @@
+[panel,danger]
+.Je n'ai pas d'informations qui remontent
+--
+Il faut bien vérifier que votre OpenGarage est joignable depuis Jeedom
+--

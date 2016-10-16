@@ -1,0 +1,9 @@
+==== Marée
+
+Ce plugin permet d'obtenir des informations des marées depuis http://maree.info/ :
+
+- marée (l'indice)
+
+- pleine mer (l'heure)
+
+- basse mer (l'heure)

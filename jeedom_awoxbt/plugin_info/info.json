@@ -1,0 +1,8 @@
+{
+	"id" : "awoxbt",
+	"name" : "Awox SmartLight BT",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "devicecommunication",
+}

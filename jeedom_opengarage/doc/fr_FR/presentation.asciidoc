@@ -1,0 +1,7 @@
+==== OpenGarage, commandes pour votre garage
+
+Ce plugin permet d'interconnecter Jeedom avec un boitier OpenGarage.
+
+OpenGarage permet de se connecter au système d'ouverture du garage et d'indiquer la présence ou non d'un véhicule
+
+Voir : http://www.opengarage.io/
