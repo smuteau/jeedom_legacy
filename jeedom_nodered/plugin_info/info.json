@@ -1,0 +1,10 @@
+{
+	"id" : "nodered",
+	"name" : "Node-Red",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "programming",
+  "hasDependency" : 1,
+  "hasOwnDeamon" : 1
+}

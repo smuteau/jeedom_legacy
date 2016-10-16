@@ -1,0 +1,17 @@
+[panel,danger]
+.Je n'ai pas d'informations supervisées
+--
+Il faut bien créer un équipement et remplir les informations.
+--
+
+[panel,danger]
+.Je n'ai pas d'accès à l'interface
+--
+Il faut bien être sur le réseau interne Jeedom (pas d'accès extérieur).
+--
+
+[panel,danger]
+.J'ai des soucis avec le plugin et j'avais déjà Monit avant
+--
+Il faut bien le supprimer avec une purge (sudo apt-get --purge remove monit) avant l'installation.
+--

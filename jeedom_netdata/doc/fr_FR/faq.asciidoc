@@ -1,0 +1,5 @@
+[panel,primary]
+.Est-ce qu'on peut récupérer des infos dans Jeedom ?
+--
+Non, ce plugin a juste pour but d'installer Netdata, s'assure qu'il tourne et donner un accès à son interface. Netdata ne donne pas accès à ses métriques
+--

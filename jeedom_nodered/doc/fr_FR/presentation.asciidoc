@@ -1,0 +1,6 @@
+==== Node-Red, éditeur de workflows de données
+
+Node-Red permet de créer des workflows de données via une interface graphique.
+Par exemple, on peut demander que sur des informations venant des GPIO, elles soient transmises à une API (de Jeedom par exemple), un message MQTT soit transmis, un statut Twitter ...
+
+  Node-Red : nodered.org

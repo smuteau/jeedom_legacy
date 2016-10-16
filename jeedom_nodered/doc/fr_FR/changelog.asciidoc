@@ -1,0 +1,16 @@
+==== Version 1.1
+
+Correction du reverse proxy
+
+Path node-red ok suivant les installs
+
+Chemin pour la sauvegarde dans l'arbo Jeedom
+
+
+==== Version 1
+
+Première version
+ 
+ - Install et éxécute Node-Red
+ 
+ - Permet d'accéder à son interface dans la page du plugin

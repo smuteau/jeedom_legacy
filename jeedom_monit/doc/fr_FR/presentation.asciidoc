@@ -1,0 +1,3 @@
+=== Monit, supervision du système
+
+Ce plugin permet d'installer Monit et d'ajouter des éléments à superviser

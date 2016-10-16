@@ -1,0 +1,3 @@
+==== Node-Red
+
+Node-Red est installé à l'activation du plugin

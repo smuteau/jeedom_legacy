@@ -1,0 +1,12 @@
+==== Notification vers Jeedom ou récupération depuis Jeedom
+
+Pour prendre une donnée de emoncms dans Jeedom, il y a deux possibilités :
+
+  * La première est de créer une info via le plugin script dans Jeedom et d'utiliser l'URL API de la feed.
+  Cette méthode oblige à récupérer la valeur régulièrement ou via scénario par exemple et normalement non utile car les données ont leur source dans jeedom_setting
+
+  https://serveur/emoncms/feed/value.json?id=1&apikey=xxx
+
+  * La deuxième possibilité est d'utiliser le plugin Event d'emoncms pour déclencher une action sur certaines conditions
+  Cette méthode pourrait être utile si on a une donnée qui est calculé ou directement récupérer par emoncms (par exemple OpenBEM)
+  Avec l'avantage de ne notifier que quand besoin, par contre le plugin event ne permet pas de faire de push et il faudra passer par MQTT pour la connexion Jeedom

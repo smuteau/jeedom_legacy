@@ -1,0 +1,17 @@
+[panel,primary]
+.Est-ce que le plugin s'appuie sur des API tiers ?
+--
+Le plugin utilise Monit pour vérifier que les services sont démarrés.
+--
+
+[panel,primary]
+.Est-ce qu'on peut avoir un lien vers l'interface sur le dashboard ?
+--
+Oui en créant un équipement Clink
+
+Dans l'équipement : Ajouter une commande et la nommer "ouvrir" par exemple
+
+Sélectionnez le Mode "Modal et le "Type" URL
+
+Renseigner l'adresse IP de votre BOX Jeedom suivi du port 2812
+--

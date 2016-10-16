@@ -1,0 +1,6 @@
+[panel,danger]
+.Je ne trouve pas d'équipements ?
+--
+Le plugin met à disposition un panel d'accès à Emoncms
+
+--

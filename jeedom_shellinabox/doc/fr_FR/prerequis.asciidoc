@@ -1,0 +1,3 @@
+==== Shellinabox
+
+Shellinabox est installé à l'activation du plugin

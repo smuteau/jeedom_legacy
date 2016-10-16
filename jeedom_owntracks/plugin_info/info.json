@@ -1,0 +1,8 @@
+{
+	"id" : "owntracks",
+	"name" : "Owntracks",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "travel"
+}

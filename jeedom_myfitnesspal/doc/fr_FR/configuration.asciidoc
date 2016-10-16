@@ -1,0 +1,7 @@
+==== Configuration du plugin
+
+Le plugin ne comporte pas de configuration générale.
+
+Il faut renseigner l'utilisateur de myfitnesspal.com sur la page équipement.
+
+Il est nécessaire que le journal soit public pour que le plugin fonctionne (myfitnesspal ne propose pas d'API, c'est un scrapping des données)

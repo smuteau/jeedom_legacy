@@ -1,0 +1,9 @@
+{
+	"id" : "emoncms",
+	"name" : "Emoncms",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "energy",
+  "display" : "panel"
+}

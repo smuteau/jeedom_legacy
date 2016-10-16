@@ -1,0 +1,9 @@
+==== Owntracks, géolocalisation par téléphone
+
+Ce plugin permet de récupérer les informations transmises par l'application owntracks
+
+Owntracks est une application pour téléphone (Android et iPhone) qui envoi des informations de geolocalisation sur un serveur MQTT.
+
+Vous pouvez aussi sur iPhone récupérer le nombre de pas et la présence d'iBeacons.
+
+Pour Jeedom les données sont envoyées vers le plugin MQTT qui dispose de son broker MQTT et le plugin Owntracks va mapper les informations Owntracks (de base l'application envoit un json contenant toutes les informations dans un sujet unique)

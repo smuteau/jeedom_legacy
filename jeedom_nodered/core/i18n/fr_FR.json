@@ -1,0 +1,17 @@
+{
+    "plugins\/nodered\/plugin_info\/info.xml": {
+        "Install Node-Red en local et permet d'accéder à son interface graphique": "Install Node-Red en local et permet d'accéder à son interface graphique",
+        "Le plugin install Node-Red.": "Le plugin install Node-Red."
+    },
+    "plugins\/nodered\/plugin_info\/configuration.php": {
+        "Le service Node-Red est en marche": "Le service Node-Red est en marche",
+        "Installation de modules supplémentaires pour Node-Red": "Installation de modules supplémentaires pour Node-Red",
+        "Un script d'installation de Node-Red et l'ensemble de ses modules disponibles est disponible dans le répertoire resources du plugin. Attention, cette installation peut prendre de nombreuses heures sur Raspberry. Il est conseillé de n'installer que les modules désirés.": "Un script d'installation de Node-Red et l'ensemble de ses modules disponibles est disponible dans le répertoire resources du plugin. Attention, cette installation peut prendre de nombreuses heures sur Raspberry. Il est conseillé de n'installer que les modules désirés.",
+        "Sauvegarde": "Sauvegarde",
+        "La sauvegarde de la configuration redémarre automatiquement le service, il faut attendre environ 1 minute pour qu\\'il soit joignable": "La sauvegarde de la configuration redémarre automatiquement le service, il faut attendre environ 1 minute pour qu\\'il soit joignable",
+        "Gestion des modules Node-Red": "Gestion des modules Node-Red"
+    },
+    "plugins\/nodered\/desktop\/php\/nodered.php": {
+        "Node-Red": "Node-Red"
+    }
+}

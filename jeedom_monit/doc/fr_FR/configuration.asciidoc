@@ -1,0 +1,3 @@
+=== Configuration du plugin
+
+Sur la page de configuration on choisit quel process on souhaite superviser

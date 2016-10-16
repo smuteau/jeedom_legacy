@@ -1,0 +1,12 @@
+
+[panel,primary]
+.Est-ce que le plugin utilise une ressource extérieure ?
+--
+Non, le scanner est local à Jeedom qui doit posséder une clef Wifi dédiée au scanner
+--
+
+[panel,danger]
+.Comment se créer les équipements?
+--
+Il faut activer le mode inclusion et ensuite ils seront créés sur détection wifi
+--

@@ -1,0 +1,7 @@
+=== Configuration du plugin
+
+Le plugin propose une configuration générale et qui permet de choisir la clef Wifi à utiliser pour le scanner
+
+Attention cette clef ne pourra pas être utilisée pour autre chose
+
+Ensuite, le plugin propose un mode inclusion qui permet de créer les équipements automatiquement

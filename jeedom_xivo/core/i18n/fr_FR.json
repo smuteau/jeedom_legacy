@@ -1,0 +1,42 @@
+{
+    "plugins\/xivo\/desktop\/php\/xivo.php": {
+        "Ajouter un équipement": "Ajouter un équipement",
+        "Rechercher": "Rechercher",
+        "Mes xivo": "Mes xivo",
+        "Général": "Général",
+        "Nom de l'xivo": "Nom de l'xivo",
+        "Nom de l'équipement xivo": "Nom de l'équipement xivo",
+        "Objet parent": "Objet parent",
+        "Aucun": "Aucun",
+        "Catégorie": "Catégorie",
+        "Activer": "Activer",
+        "Visible": "Visible",
+        "Commentaire": "Commentaire",
+        "Configuration": "Configuration",
+        "Adresse IP du XiVo": "Adresse IP du XiVo",
+        "URL pour l'envoi depuis XiVO : ": "URL pour l'envoi depuis XiVO : ",
+        "Informations et Commandes": "Informations et Commandes",
+        "Supprimer": "Supprimer",
+        "Sauvegarder": "Sauvegarder",
+        "Ajouter une commande action": "Ajouter une commande action",
+        "Ajouter une commande info": "Ajouter une commande info",
+        "Nom": "Nom",
+        "URL": "URL",
+        "Valeur": "Valeur",
+        "Paramètres": "Paramètres"
+    },
+    "plugins\/xivo\/desktop\/js\/xivo.js": {
+        "Nom de l\\'info": "Nom de l\\'info",
+        "Valeur": "Valeur",
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser",
+        "Evénement seulement": "Evénement seulement",
+        "Lifetime cache": "Lifetime cache",
+        "Min": "Min",
+        "Max": "Max",
+        "Tester": "Tester",
+        "Est-ce une info en pull depuis Xivo ou pour commande": "Est-ce une info en pull depuis Xivo ou pour commande",
+        "Afficher le Nom": "Afficher le Nom"
+    }
+}

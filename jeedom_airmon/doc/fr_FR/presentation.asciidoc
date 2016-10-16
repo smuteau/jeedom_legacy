@@ -1,0 +1,3 @@
+=== Airmon, scanner WiFi
+
+Ce plugin installe Airmon et permet gràce à une clef Wifi de scanner les matériels Wifi présents à proximité

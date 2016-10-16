@@ -1,0 +1,5 @@
+==== My Fitness Pal
+
+Ce plugin permet d'obtenir les informations en provenance de l'application myfitnesspal :
+
+Vous pouvez ainsi accéder directement au journal.

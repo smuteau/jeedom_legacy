@@ -1,0 +1,25 @@
+==== Configuration du plugin
+
+Il n'y a pas de configuration à faire.
+
+On accède à Shellinabox via la page de plugin
+
+==== Configuration pour ceux qui n'ont pas les droits sudo sur leur install
+
+Il faut d'abord comme indiqué sur la page de configuration installer shellinabox :
+
+  sudo apt-get -y install shellinabox
+
+Ensuite il faut ajouter une règle de reverse proxy avec les éléments suivants :
+
+location /jeedom/shellinabox/ {
+proxy_pass http://127.0.0.1:4200;
+proxy_set_header Host $host;
+proxy_buffering off;
+tcp_nodelay on;
+access_log off;
+}
+
+C'est à mettre dans un fichier pris en compte par votre nginx et redémarrer nginx :
+
+  sudo service nginx restart

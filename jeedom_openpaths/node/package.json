@@ -1,0 +1,28 @@
+{
+    "name": "openpaths-api",
+    "version": "0.0.1",
+    "description": "A Node.js module for the OpenPaths API <https://openpaths.cc/api>",
+    "main": "./openpaths-api.js",
+    "author": "Bruno Bernardino <bruno.bernardino@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BrunoBernardino/node-openpaths-api"
+    },
+    "bugs": {
+        "url": "https://github.com/BrunoBernardino/node-openpaths-api/issues"
+    },
+    "keywords": [
+        "openpaths",
+        "geo",
+        "api",
+        "BrunoBernardino"
+    ],
+    "dependencies": {
+        "async": "0.9.x",
+        "oauth-1.0a": "0.1.x",
+        "querystring": "0.2.x",
+        "request": "2.42.x"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/BrunoBernardino/node-openpaths-api"
+}

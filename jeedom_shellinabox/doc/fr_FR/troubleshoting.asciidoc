@@ -1,0 +1,8 @@
+[panel,danger]
+.Shellinabox ne s'est pas installé sur mon système
+--
+Vous pouvez l'installer avec :
+
+  sudo apt-get install shellinabox
+
+--

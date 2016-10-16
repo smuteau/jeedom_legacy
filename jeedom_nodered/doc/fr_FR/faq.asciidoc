@@ -1,0 +1,5 @@
+[panel,primary]
+.Est-ce qu'on peut créer des flows directement dans Jeedom ?
+--
+Non, ce plugin a juste pour but d'installer Node-Red, s'assure qu'il tourne et donner un accès à son interface.
+--

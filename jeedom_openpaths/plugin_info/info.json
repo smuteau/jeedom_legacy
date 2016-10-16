@@ -1,0 +1,9 @@
+{
+	"id" : "openpaths",
+	"name" : "Openpaths",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "travel",
+  "hasDependency" : 1
+}

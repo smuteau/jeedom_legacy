@@ -1,0 +1,7 @@
+==== Emoncms, Energy Monitoring CMS
+
+Ce plugin permet juste d'ajouter un accès à une installation emoncms dans un panel et modal.
+
+Pour ce qui concerne le partage de données entre Jeedom et EmonCMS (dans un sens ou l'autre), vous trouverez dans cette documentation les moyens de la mettre en oeuvre.
+
+Un bref mémo pour installer emoncms est également proposé (cette installation n'est actuellement pas proposé en natif dans Jeedom)

@@ -1,0 +1,5 @@
+==== Configuration du plugin
+
+Il n'y a pas de configuration à faire.
+  
+On accède à Node-Red via la page de plugin

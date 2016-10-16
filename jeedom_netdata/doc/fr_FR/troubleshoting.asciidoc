@@ -1,0 +1,6 @@
+[panel,danger]
+.Netdata ne s'ouvre pas dans le panel
+--
+Vous pouvez vérifier les droits de www-data il doit bien être dans le sudo pour pouvoir faire l'installation et modifier le reverse proxy
+
+--

@@ -1,0 +1,5 @@
+[panel,primary]
+.Est-ce qu'on peut ouvrir une session directement depuis Jeedom ?
+--
+Oui depuis Jeedom vous pouvez ouvrir un terminal grâce à ce plugin.
+--

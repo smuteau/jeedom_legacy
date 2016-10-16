@@ -1,0 +1,3 @@
+==== Shellinabox, terminal en mode web
+
+Shellinabox donne un accès à un terminal depuis une page web

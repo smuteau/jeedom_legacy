@@ -1,0 +1,9 @@
+==== Configuration du plugin
+
+Le plugin ne comporte pas de configuration générale.
+
+Il utilise MQTT en prérequis. Vous devez donc avoir le plugin MQTT configuré et qui récupère les données de geolocalisation.
+
+Le plugin Owntracks ne fait que lire les données envoyées (au format json) et les rendre plus facile à consulter et utiliser en scénario par exemple.
+
+Le plugin créera les équipements et commandes automatiquement par rapport à ce qui est existant dans MQTT sur le sujet /owntracks/*

@@ -1,0 +1,5 @@
+[panel,primary]
+.Est-ce que le plugin s'appuie sur des API tiers ?
+--
+Non, le plugin s'appuie sur les données du plugin MQTT. Celui-ci peut s'appuyer sur un serveur MQTT local ou distant.
+--

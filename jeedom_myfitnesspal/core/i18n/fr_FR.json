@@ -1,0 +1,35 @@
+{
+    "plugins\/myfitnesspal\/desktop\/php\/myfitnesspal.php": {
+        "Ajouter un équipement": "Ajouter un équipement",
+        "Rechercher": "Rechercher",
+        "Mes FitnessPal": "Mes FitnessPal",
+        "Général": "Général",
+        "Nom": "Nom",
+        "Nom de l'équipement Vigilances Météo": "Nom de l'équipement Vigilances Météo",
+        "Objet parent": "Objet parent",
+        "Aucun": "Aucun",
+        "Catégorie": "Catégorie",
+        "Activer": "Activer",
+        "Visible": "Visible",
+        "Commentaire": "Commentaire",
+        "Configuration": "Configuration",
+        "Utilisateur": "Utilisateur",
+        "Informations": "Informations",
+        "Valeur": "Valeur",
+        "Supprimer": "Supprimer",
+        "Sauvegarder": "Sauvegarder"
+    },
+    "plugins\/myfitnesspal\/desktop\/js\/myfitnesspal.js": {
+        "Historiser": "Historiser"
+    },
+    "plugins\/myfitnesspal\/core\/class\/myfitnesspal.class.php": {
+        "Calories": "Calories",
+        "Carbs": "Carbs",
+        "Gras": "Gras",
+        "Protéines": "Protéines",
+        "Choléstérol": "Choléstérol",
+        "Sodium": "Sodium",
+        "Sucre": "Sucre",
+        "Fibre": "Fibre"
+    }
+}

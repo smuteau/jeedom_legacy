@@ -1,0 +1,5 @@
+[panel,danger]
+.Je n'ai pas d'informations qui remontent
+--
+Il faut bien s'assurer que les données remontent dans le plugin MQTT avant tout.
+--

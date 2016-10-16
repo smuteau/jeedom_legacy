@@ -1,0 +1,5 @@
+==== Configuration du plugin
+
+Il faut configurer l'adresse du EmonCMS auquel on souhaite accéder.
+
+Ce paramètre permet d'obtenir l'accès emoncms dans les modals mais ne créer aucun "lien" automatique, il faudra s'assurer d'envoyer les informations vers emoncms depuis jeedom ou inversement.

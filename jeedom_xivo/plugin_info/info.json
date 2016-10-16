@@ -1,0 +1,8 @@
+{
+	"id" : "xivo",
+	"name" : "Xivo (Asterisk)",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "communication"
+}

@@ -1,0 +1,5 @@
+[panel,primary]
+.Est-ce qu'on peut utiliser en déporté ?
+--
+Non, Emoncms n'est installé que sur le maitre.
+--

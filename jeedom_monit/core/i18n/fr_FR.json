@@ -1,0 +1,12 @@
+{
+    "plugins\/monit\/plugin_info\/configuration.php": {
+        "Nginx": "Nginx",
+        "Activer": "Activer",
+        "PHP": "PHP",
+        "MySQL": "MySQL"
+    },
+    "plugins\/monit\/core\/class\/monit.class.php": {
+        "Monit": "Monit",
+        "OK": "OK"
+    }
+}

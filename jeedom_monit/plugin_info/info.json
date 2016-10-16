@@ -1,0 +1,9 @@
+{
+	"id" : "monit",
+	"name" : "Monit",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "monitoring",
+  "hasDependency" : 1
+}
